@@ -125,6 +125,7 @@ Each owner can edit their housing offer. Clicking the [Edit] button for a specif
 
 # 6.	Security Requirements (Routes Guards) - (10 Pts)
 The Security Requirements are mainly access requirements. Configurations about which users can access specific functionalities and pages.
+
     •	Guest (not logged in) users can access Home page.
     •	Guest (not logged in) users can access Login page and functionality.
     •	Guest (not logged in) users can access Register page and functionality.
@@ -136,6 +137,7 @@ The Security Requirements are mainly access requirements. Configurations about w
     o	Users (home offer owner) can Edit and Delete the current home
     •	Users (logged in) can access Create Offer page and functionality.
     •	Users (logged in) can access Logout functionality.
+    
 Use the following view for invalid paths: Display page 404
 
 # 7.	Validation and Error Handling (10 Pts)
@@ -145,6 +147,7 @@ You can choose to display the first error or all of them. You have complete free
 
 ## Login / Register
 You should make the following validations:
+
     •	The name should be in the following format -> (firstname lastname) - "Alexandur Petrov" 
     •	The username should be at least 5 characters long
     •	The password should be at least 4 characters long
@@ -152,6 +155,7 @@ You should make the following validations:
 
 ## Housing
 You should make the following validations while creating or editing a home:
+
     •	The Name should be at least 6 characters
     •	The Year should be between 1850 and 2021
     •	The City should be at least 4 characters long
@@ -162,7 +166,5 @@ You should make the following validations while creating or editing a home:
 
 # * Bonus – Search (10 Pts)
 Search for housing. Filter all matches by housing type, which includes a search string (case insensitive).
-
 After click on [Search] button and If there are any matching matches from the search, show each of them.
-
 If there are no search matches, display: „No match was found for the submitted type...“
