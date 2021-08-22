@@ -1,19 +1,7 @@
 # js-backend-project-real-estate-agency
 JS Back-End Project - Real Estate Agency
 
-1.	Exam Rules:
-
-1.	You have 4 hours 
-2.	When you are ready, delete the node_modules folder, make sure all dependencies are listed in the package.json file and submit your archived project.
-3.	You are provided with HTML & CSS resources 
-4.	You may add attributes (such as class and dataset), but it is forbidden to change existing attributes (such as class and id)
-5.	You may change "href" attributes on links and add/change the method and action attributes of HTML Forms.
-6.	Use Express.js as a back-end framework
-7.	Use MongoDB as a database with mongoose
-8.	You can use whatever view engine you like (express-handlebars, EJS, Pug etc.…)
-9.	Use bcrypt for hashing the password
-10.	The application must start from file "index.js" on port 3000
-11.	It is forbidden to use React, Vue, Angular etc.
+1.	Exam Rules: ...
 
 2.	Application Overview
 Get acquainted with the provided HTML and CSS and create an application for a real estate agency. 
